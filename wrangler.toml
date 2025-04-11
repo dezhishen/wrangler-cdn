@@ -1,4 +1,4 @@
-name = "cdn"
+name = "imgur"
 compatibility_date = "2023-01-30"
 main = "./src/index.ts"
 workers_dev = true
